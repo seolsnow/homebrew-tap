@@ -1,6 +1,6 @@
 cask "claudemeter" do
-  version "0.2.1"
-  sha256 "ccea57197bc9da6e4000aa03de7376ce184a7303dc67b3a9c3cf879f44b0b140"
+  version "0.2.2"
+  sha256 "6cb494c3b5fbda603f00fcfd030787d3123daea28da6b631c9362429f7f8cdb9"
 
   url "https://github.com/seolsnow/ClaudeMeter/releases/download/v#{version}/ClaudeMeter.zip"
   name "ClaudeMeter"
